@@ -7,7 +7,7 @@
  <body>
 <section>
   <header>
-    <img src="" alt="" style="width: 140px; height: 69px;">
+    <img src="images/logo.jpg" alt="" style="width: 60px; height: 40px;">
   </img>
 </header>
 </section>
@@ -30,7 +30,7 @@
 
 <section>
 <footer>
-  <img>
+  <img src="images/logo.jpg" alt="" style="width: 60px; height: 40px;">
 </img>
 <a href="Shipping"></a>
 <a href="Terms and Conditions"></a>
