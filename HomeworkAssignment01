@@ -10,7 +10,7 @@
     <img src="images/logo.jpg" alt="logo" style="width: 60px; height: 40px;"></img>
 </header>
 </section>
-<section>
+<section style="background-color:red;">
 
 <img src="images/shoe1.png" alt="blackshoe" style="width: 200px; height: 160px;"></img>
 <a href="http://mysite/shoes.html">Back To All Shoes</a>
@@ -28,8 +28,7 @@
   <p>Don't take our word for it! Read what our customers have been saying about this product. We guarantee you won't be disappointed in your purchase.</p>
   <p style=font-size=13px;>Shop Recommended Shoes</p>
 </section>
-<section>
-  <style=background-color: red></style>
+<section style="background-color:red;">
 <img src="images/shoe2.png" alt="BlueShoe" style="width: 170px; height: 120px;"></img>
 <a href="http://price.html">$120.00</a>
 <p style=color: white;>Funny Sneakers
