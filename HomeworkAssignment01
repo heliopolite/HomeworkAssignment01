@@ -7,42 +7,50 @@
  <body>
 <section>
   <header>
-    <img src="images/logo.jpg" alt="" style="width: 60px; height: 40px;">
-  </img>
+    <img src="images/logo.jpg" alt="logo" style="width: 60px; height: 40px;"></img>
 </header>
 </section>
-<img></img>
+<section>
+
+<img src="images/shoe1.png" alt="blackshoe" style="width: 200px; height: 160px;"></img>
 <a href="http://mysite/shoes.html">Back To All Shoes</a>
-  <p>Quick Sneakers</p>
-  <p>nveioapngoanv;angia;nvr;gnioergnrioregnrk</p>
+  <p style=font-size:18px;>Quick Sneakers</p>
+  <p>Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit</p>
   <p>$120</p>
-<section>
-
+  <a href="http://BuyNow.html">Buy Now</a>
 </section>
-
 <section>
-
+  <p style=font-size:13px;>Exciting Topic</p>
+  <p style=font-size:8px;>Content here</p>
+  <p style=font-size:13px;>Find Your Shoe Size and Fit</p>
+  <p style=font-size:8px;>Content here</p>
+  <p style=font-size:13px;>What Our Customers Are Saying!</p>
+  <p>Don't take our word for it! Read what our customers have been saying about this product. We guarantee you won't be disappointed in your purchase.</p>
+  <p style=font-size=13px;>Shop Recommended Shoes</p>
 </section>
-
 <section>
+  <style=background-color: red></style>
+<img src="images/shoe2.png" alt="BlueShoe" style="width: 170px; height: 120px;"></img>
+<a href="http://price.html">$120.00</a>
+<p style=color: white;>Funny Sneakers
 
+</p>
+<img src="images/shoe3.png" alt="BlueShoe" style="width: 170px; height: 120px;"></img>
+<a href="http://price.html">$120.00</a>
+<p style=color: white;>Funny Sneakers</p>
+
+<img src="images/shoe4.png" alt="BlueShoe" style="width: 170px; height: 120px;"></img>
+<a href="http://price.html">$120.00</a>
+<p style=color: white;>Funny Sneakers</p>
 </section>
-
 <section>
 <footer>
   <img src="images/logo.jpg" alt="" style="width: 60px; height: 40px;">
 </img>
-<a href="Shipping"></a>
-<a href="Terms and Conditions"></a>
+<a href="http://Shipping.html">Shipping</a>
+<a href="http://TermsandConditions.html">Terms and Conditions</a>
 <p>Copyright 2017. Sneaker Shop, LLC.</p>
-
 </footer>
 </section>
-
-
-
-
-
-<p></P>
  </body>
  </html>
