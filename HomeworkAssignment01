@@ -12,28 +12,28 @@
     <header>
       <img class="logo" src="images/logo.jpg" alt="logo"></img>
       <nav>
-        <a href="/men/">MEN</a>
-        <a href="/women/">WOMEN</a>
-        <a href="/boys/">BOYS</a>
-        <a href="/girls/">GIRLS</a>
-        <a href="/customize/">CUSTOMIZE</a>
-        <a href="/help/">Help</a>
-        <a href="/MyAccount/">My Account</a>
+        <a class="men" href="/men/">MEN</a>
+        <a class="women" href="/women/">WOMEN</a>
+        <a class="boys" href="/boys/">BOYS</a>
+        <a class="girls" href="/girls/">GIRLS</a>
+        <a class="customize" href="/customize/">CUSTOMIZE</a>
+        <a class="help" href="/help/">Help</a>
+        <a class="myaccount" href="/MyAccount/">My Account</a>
         <img class="shoppingcart" src="images/cart.jpg" alt="shoppingcart"></img>
-        <a href="/Shopping Cart/">Shopping Cart</a>
+        <a class="shoppingcart" href="/Shopping Cart/">Shopping Cart</a>
       </nav>
     </header>
   </section>
   <section class="redbackground">
-    <a href="http://AllShoes.html">&#8592;Back To All Shoes</a>
+    <a href="#">&#8592;Back To All Shoes</a>
     <img class="blackshoe" src="images/shoe1.png" alt="blackshoe"></img>
     <p></p>
     <h1 class="QuickSneakers">Quick Sneakers</h1>
     <p class="Lorem">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure
       dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-      <a href="http://Reviews.html">Read The Reviews</a></p>
+      <a href="#">Read The Reviews</a></p>
     <p class="onetwenty">$120</p>
-    <a href="http://BuyNow.html">Buy Now!</a>
+    <a href="#">Buy Now!</a>
   </section>
   <section>
     <h2>Exciting Topic</h2>
@@ -47,31 +47,27 @@
     <h5>Shop Recommended Shoes</h5>
     <img class="blueshoe" src="images/shoe2.png" alt="BlueShoe"></img>
     <p class="FunnySneakers">Funny Sneakers</p>
-    <a href="http://price.html">$120.00</a>
+    <a href="#">$120.00</a>
     <p></p>
     <img class="blueshoe2" src="images/shoe3.png" alt="BlueShoe"></img>
     <p class="FunnySneakers">Funny Sneakers</p>
-    <a href="http://price.html">$120.00</a>
+    <a href="#">$120.00</a>
     <p></p>
     <img class="shoe4" src="images/shoe4.png" alt="BlueShoe"></img>
     <p class="FunnySneakers">Funny Sneakers</p>
-    <a href="http://price.html">$120.00</a>
+    <a href="#">$120.00</a>
     <p></p>
   </section>
   <section>
     <footer>
       <img class="logo" src="images/logo.jpg" alt="logo"></img>
-      <a href="/men/">MEN</a>
-      <a href="/women/">WOMEN</a>
-      <a href="/boys/">BOYS</a>
-      <a href="/girls/">GIRLS</a>
-      <a href="/customize/">CUSTOMIZE</a>
-      <a href="http://Shipping.html">
-          Shipping |
-    </a>
-      <a href="http://TermsandConditions.html">
-          Terms and Conditions |
-    </a>
+      <a class="men" href="/men/">MEN</a>
+      <a class="women" href="/women/">WOMEN</a>
+      <a class="boys" href="/boys/">BOYS</a>
+      <a class="girls" href="/girls/">GIRLS</a>
+      <a class="customize" href="/customize/">CUSTOMIZE</a>
+      <a class="shipping" href="#">Shipping |</a>
+      <a class="termsandconditions" href="#">Terms and Conditions |</a>
       <p class="copyright"> © Copyright 2017. Sneaker Shop, LLC.
       </p>
     </footer>
