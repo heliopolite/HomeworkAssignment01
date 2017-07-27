@@ -1,83 +1,118 @@
 .logo {
   width: 60px;
   height: 40px;
+  border: 1px;
 }
 .men {
   color: red;
   text-decoration: none;
+  border: 1px;
   }
   .women {
     color: red;
     text-decoration: none;
+    border: 1px;
   }
   .boys {
     color: red;
     text-decoration: none;
+    border: 1px;
   }
   .girls {
     color: red;
     text-decoration: none;
+    border: 1px;
   }
   .customize {
     color: red;
     text-decoration: none;
+    border: 1px;
   }
   .help {
     color: red;
     text-decoration: none;
+    text-align: right;
+    border: 1px;
   }
   .myaccount {
     color: red;
     text-decoration: none;
+    border: 1px;
   }
   .shoppingcart {
     color: red;
     text-decoration: none;
+    text-align: right;
+    border: 1px;
+  }
+  .backtoallshoes {
+    color: white;
+    text-decoration: none;
+    border: 1px;
   }
 .redbackground {
   background: linear-gradient(to right, #ff0066 0%, #cc0000 100%);
+  border: 1px;
 }
 
 .blackshoe {
   width: 300px;
   height: 160px;
+  border: 1px;
 }
 
 h1 {
   color: white;
   font-size: 22px;
+  margin-left: auto;
+  margin-right: inherit;
+  border: 1px;
 }
 
 .Lorem {
   color: white;
   font-size: 9px;
+  margin-left: 300px;
+  margin-right: 300px;
+  border: 1px;
 }
 
 .onetwenty {
   color: white;
+  border: 1px;
 }
-
+.buynow {
+  color: red;
+  padding: 10px;
+  text-decoration: none;
+  border: 1px;
+}
 h2 {
   font-size: 15px;
   font-weight: bold;
+  border: 1px;
 }
 
 .contenthere {
   font-size: 8px;
+  border: 1px;
 }
 
 h3 {
   font-size: 15px;
   font-weight: bold;
+  border: 1px;
 }
 
 h4 {
   font-size: 15px;
   font-weight: bold;
+  border: 1px;
 }
 
 .read {
   font-size: 8px;
+  border: 1px;
 }
 
 h5 {
@@ -85,30 +120,38 @@ h5 {
   font-size: 15px;
   text-align: center;
   padding: 20px;
+  border: 1px;
 }
 
 .blueshoe {
   width: 170px;
   height: 120px;
+  border: 1px;
 }
 
 .blueshoe2 {
   width: 170px;
   height: 120px;
+  border: 1px;
 }
 .shoe4 {
   width: 170px;
   height: 120px;
+  border: 1px;
 }
 .FunnySneakers {
   color: white;
+  border: 1px;
 }
 .shipping {
   color: gray;
+  border: 1px;
   }
 .termsandconditions {
   color: gray;
+  border: 1px;
 }
 .copyright {
   color: gray;
+  border: 1px;
 }
