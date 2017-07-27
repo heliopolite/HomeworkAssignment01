@@ -1,11 +1,13 @@
 <!DOCTYPE html>
 <html>
- <head>
-   <meta charset="utf-8">
-   <title>HomeworkAssignment01</title>
-   <link rel="stylesheet" href="Styles.CSS">
- </head>
- <body>
+
+<head>
+  <meta charset="utf-8">
+  <title>HomeworkAssignment01</title>
+  <link rel="stylesheet" href="Styles.CSS">
+</head>
+
+<body>
   <section>
     <header>
       <img class="logo" src="images/logo.jpg" alt="logo"></img>
@@ -16,8 +18,9 @@
     <img class="blackshoe" src="images/shoe1.png" alt="blackshoe"></img>
     <p></p>
     <h1 class="QuickSneakers">Quick Sneakers</h1>
-    <p class="Lorem">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-    <a href="http://Reviews.html">Read The Reviews</a></p>
+    <p class="Lorem">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure
+      dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+      <a href="http://Reviews.html">Read The Reviews</a></p>
     <p class="onetwenty">$120</p>
     <a href="http://BuyNow.html">Buy Now!</a>
   </section>
@@ -46,16 +49,17 @@
   </section>
   <section>
     <footer>
-    <img class="logo" src="images/logo.jpg" alt="logo"></img>
-    <a href="http://Shipping.html">
+      <img class="logo" src="images/logo.jpg" alt="logo"></img>
+      <a href="http://Shipping.html">
           Shipping |
     </a>
-    <a href="http://TermsandConditions.html">
+      <a href="http://TermsandConditions.html">
           Terms and Conditions |
     </a>
-    <p class="copyright"> © Copyright 2017. Sneaker Shop, LLC.
-    </p>
+      <p class="copyright"> © Copyright 2017. Sneaker Shop, LLC.
+      </p>
     </footer>
   </section>
- </body>
+</body>
+
 </html>
