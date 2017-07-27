@@ -3,14 +3,15 @@
  <head>
    <meta charset="utf-8">
    <title>HomeworkAssignment01</title>
+   <link rel="stylesheet" href="Styles.CSS">
  </head>
  <body>
   <section>
     <header>
-      <img src="images/logo.jpg" alt="logo" style="width: 60px; height: 40px;"></img>
+      <img class="logo" src="images/logo.jpg" alt="logo"></img>
     </header>
   </section>
-  <section style="background-color:red;">
+  <section class="redbackground">
     <a href="http://AllShoes.html">&#8592;Back To All Shoes</a>
     <img src="images/shoe1.png" alt="blackshoe" style="width: 300px; height: 160px;"></img>
     <p></p>
@@ -29,7 +30,7 @@
     <p style="font-size:8px;">Don't take our word for it! Read what our customers have been saying about this product. We guarantee you won't be disappointed in your purchase.</p>
     <p style="font-size:15px;"><b>Shop Recommended Shoes</b></p>
   </section>
-  <section style="background-color:red;">
+  <section class="redbackground">
     <img src="images/shoe2.png" alt="BlueShoe" style="width: 170px; height: 120px;"></img>
     <p style="color: white;">Funny Sneakers</p>
     <a href="http://price.html">$120.00</a>
@@ -46,7 +47,7 @@
   <section>
     <footer>
       <p style="color:gray;">
-        <img src="images/logo.jpg" alt="" style="width: 60px; height: 40px;"></img>
+        <img class="logo" src="images/logo.jpg" alt="logo"></img>
         <a href="http://Shipping.html">
           Shipping |
         </a>
