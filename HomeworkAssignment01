@@ -13,50 +13,48 @@
   </section>
   <section class="redbackground">
     <a href="http://AllShoes.html">&#8592;Back To All Shoes</a>
-    <img src="images/shoe1.png" alt="blackshoe" style="width: 300px; height: 160px;"></img>
+    <img class="blackshoe" src="images/shoe1.png" alt="blackshoe"></img>
     <p></p>
-    <p style="color: white; font-size:22px;">Quick Sneakers</p>
-    <p style="color: white;">Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit
+    <h1 class="QuickSneakers">Quick Sneakers</h1>
+    <p class="Lorem">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
     <a href="http://Reviews.html">Read The Reviews</a></p>
-    <p style="color: white;">$120</p>
+    <p class="onetwenty">$120</p>
     <a href="http://BuyNow.html">Buy Now!</a>
   </section>
   <section>
-    <p style="font-size:15px;"><b>Exciting Topic</b></p>
-    <p style="font-size:8px;">Content here</p>
-    <p style="font-size:15px;"><b>Find Your Shoe Size and Fit</b></p>
-    <p style="font-size:8px;">Content here</p>
-    <p style="font-size:15px;"><b>What Our Customers Are Saying!</b></p>
-    <p style="font-size:8px;">Don't take our word for it! Read what our customers have been saying about this product. We guarantee you won't be disappointed in your purchase.</p>
-    <p style="font-size:15px;"><b>Shop Recommended Shoes</b></p>
+    <h2>Exciting Topic</h2>
+    <p class="contenthere">Content here</p>
+    <h3>Find Your Shoe Size and Fit</h3>
+    <p class="contenthere">Content here</p>
+    <h4>What Our Customers Are Saying!</h4>
+    <p class="read">Don't take our word for it! Read what our customers have been saying about this product. We guarantee you won't be disappointed in your purchase.</p>
   </section>
   <section class="redbackground">
-    <img src="images/shoe2.png" alt="BlueShoe" style="width: 170px; height: 120px;"></img>
-    <p style="color: white;">Funny Sneakers</p>
+    <h5>Shop Recommended Shoes</h5>
+    <img class="blueshoe" src="images/shoe2.png" alt="BlueShoe"></img>
+    <p class="FunnySneakers">Funny Sneakers</p>
     <a href="http://price.html">$120.00</a>
     <p></p>
-    <img src="images/shoe3.png" alt="BlueShoe" style="width: 170px; height: 120px;"></img>
-    <p style="color: white;">Funny Sneakers</p>
+    <img class="blueshoe2" src="images/shoe3.png" alt="BlueShoe"></img>
+    <p class="FunnySneakers">Funny Sneakers</p>
     <a href="http://price.html">$120.00</a>
     <p></p>
-    <img src="images/shoe4.png" alt="BlueShoe" style="width: 170px; height: 120px;"></img>
-    <p style="color: white;">Funny Sneakers</p>
+    <img class="shoe4" src="images/shoe4.png" alt="BlueShoe"></img>
+    <p class="FunnySneakers">Funny Sneakers</p>
     <a href="http://price.html">$120.00</a>
     <p></p>
   </section>
   <section>
     <footer>
-      <p style="color:gray;">
-        <img class="logo" src="images/logo.jpg" alt="logo"></img>
-        <a href="http://Shipping.html">
+    <img class="logo" src="images/logo.jpg" alt="logo"></img>
+    <a href="http://Shipping.html">
           Shipping |
-        </a>
-        <a href="http://TermsandConditions.html">
+    </a>
+    <a href="http://TermsandConditions.html">
           Terms and Conditions |
-        </a>
-        © Copyright 2017. Sneaker Shop, LLC.
-
-      </p>
+    </a>
+    <p class="copyright"> © Copyright 2017. Sneaker Shop, LLC.
+    </p>
     </footer>
   </section>
  </body>
