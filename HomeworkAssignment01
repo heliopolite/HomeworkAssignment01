@@ -11,6 +11,17 @@
   <section>
     <header>
       <img class="logo" src="images/logo.jpg" alt="logo"></img>
+      <nav>
+        <a href="/men/">MEN</a>
+        <a href="/women/">WOMEN</a>
+        <a href="/boys/">BOYS</a>
+        <a href="/girls/">GIRLS</a>
+        <a href="/customize/">CUSTOMIZE</a>
+        <a href="/help/">Help</a>
+        <a href="/MyAccount/">My Account</a>
+        <img class="shoppingcart" src="images/cart.jpg" alt="shoppingcart"></img>
+        <a href="/Shopping Cart/">Shopping Cart</a>
+      </nav>
     </header>
   </section>
   <section class="redbackground">
@@ -50,6 +61,11 @@
   <section>
     <footer>
       <img class="logo" src="images/logo.jpg" alt="logo"></img>
+      <a href="/men/">MEN</a>
+      <a href="/women/">WOMEN</a>
+      <a href="/boys/">BOYS</a>
+      <a href="/girls/">GIRLS</a>
+      <a href="/customize/">CUSTOMIZE</a>
       <a href="http://Shipping.html">
           Shipping |
     </a>
