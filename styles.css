@@ -3,30 +3,19 @@
   height: 40px;
   border: 1px;
 }
-.men {
-  color: red;
+.menulist {
+  color: #ff512f;
   text-decoration: none;
   border: 1px;
+  cursor: pointer;
+  font-weight: bold;
+  margin: 0, 12px, 0 0;
+  padding: 4px, 2x
   }
-  .women {
-    color: red;
-    text-decoration: none;
-    border: 1px;
-  }
-  .boys {
-    color: red;
-    text-decoration: none;
-    border: 1px;
-  }
-  .girls {
-    color: red;
-    text-decoration: none;
-    border: 1px;
-  }
-  .customize {
-    color: red;
-    text-decoration: none;
-    border: 1px;
+  li {
+    display: inline-block;
+    float: left;
+    margin: 5px;
   }
   .help {
     color: red;
@@ -40,15 +29,25 @@
     border: 1px;
   }
   .shoppingcart {
+
+  }
+  .shoppingcart {
     color: red;
     text-decoration: none;
     text-align: right;
     border: 1px;
   }
+  h1 {
+    text-align: right;
+    margin: 10px
+    padding: 20px;
+  }
   .backtoallshoes {
     color: white;
     text-decoration: none;
     border: 1px;
+    margin: 10px
+    padding: 10px
   }
 .redbackground {
   background: linear-gradient(to right, #ff0066 0%, #cc0000 100%);
@@ -57,7 +56,7 @@
 
 .blackshoe {
   width: 300px;
-  height: 160px;
+  height: 200px;
   border: 1px;
 }
 
@@ -125,35 +124,24 @@ h5 {
   border: 1px;
 }
 
-.blueshoe {
+.shoepic {
   width: 170px;
   height: 120px;
   border: 1px;
-}
-
-.blueshoe2 {
-  width: 170px;
-  height: 120px;
-  border: 1px;
-}
-.shoe4 {
-  width: 170px;
-  height: 120px;
-  border: 1px;
+  display: inline-block;
+  margin: 20px
 }
 .FunnySneakers {
   color: white;
   border: 1px;
 }
-.shipping {
+.legal {
   color: gray;
   border: 1px;
+  text-align: right;
   }
-.termsandconditions {
-  color: gray;
-  border: 1px;
-}
 .copyright {
   color: gray;
   border: 1px;
+  text-align: right;
 }
