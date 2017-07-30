@@ -89,6 +89,7 @@ margin-bottom: 30px;
   color: red;
   text-decoration: none;
   border: 1px;
+  border-radius: 6px;
   background-color: #ffffff;
 }
 h2 {
