@@ -63,19 +63,21 @@ ul {
     color: white;
     text-decoration: none;
     border: 1px;
-    margin: 100px;
+    margin: 40px;
     padding: 10px
   }
 .redbackground {
   background: linear-gradient(to right, #ff0066 0%, #cc0000 100%);
   border: 1px;
+  height: 600px;
 }
 
 .blackshoe {
-  width: 600px;
-  height: 400px;
+  width: 300px;
+  height: 200px;
   border: 1px;
-  margin: 100px;
+  margin: 20px;
+  display:inline-block;
 }
 .quicksneakersblock{
   margin: 30, 30, 30, 30;
@@ -146,20 +148,25 @@ h5 {
   padding: 20px;
   border: 1px;
 }
+.smallredbackground{
+  background: linear-gradient(to right, #ff0066 0%, #cc0000 100%);
+  border: 1px;
+  height: 300px;
+}
 .shoe2{
   display: inline-block;
   width: 25%;
-  margin-left: 150px;
+  margin-left: 125px;
 }
 .shoe3{
   display: inline-block;
   width: 25%;
-  margin-left: 150px;
+  margin-left: 125px;
 }
 .shoe4{
   display: inline-block;
   width: 25%;
-  margin-left: 150px;
+  margin-left: 125px;
 }
 .FunnySneakers {
   color: white;
