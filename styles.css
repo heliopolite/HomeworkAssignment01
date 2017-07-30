@@ -1,3 +1,10 @@
+*{
+  font-family: arial;
+
+}
+.header{
+  margin: 10px 5px 10px 5px;
+}
 .logo {
   width: 60px;
   height: 40px;
@@ -14,11 +21,16 @@
   line-spacing: 5px;
   display: inline-block;
   text-align: center;
-
-}
-.menulist a:hover{
-
-}
+  list-style-type: none;
+ }
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  }
+  li {
+    display: inline;
+  }
   .help {
     color: red;
     text-decoration: none;
@@ -91,6 +103,9 @@ margin-bottom: 30px;
   border: 1px;
   border-radius: 6px;
   background-color: #ffffff;
+  cursor: pointer;
+  display: inline-block;
+  text-align: right;
 }
 h2 {
   font-size: 15px;
