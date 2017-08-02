@@ -41,12 +41,18 @@ ul {
   li {
     display: inline;
   }
-  .help {
+  .help1 {
     color: red;
     text-decoration: none;
-    text-align: right;
     border: 1px;
-    display: inline-block;
+    float: right;
+    vertical-align: -1px;
+    margin-right: 2px;
+    width: 20%;
+  }
+  .help{
+    color: red;
+    text-decoration: none;
   }
   .myaccount {
     color: red;
@@ -74,10 +80,10 @@ ul {
 }
 
 .blackshoe {
-  width: 500px;
-  height: 300px;
+  width: 100%;
+  height: 100%;
   border: 1px;
-  margin: 20px;
+  margin: 10px;
   display:inline-block;
 }
 .quicksneakersblock{
@@ -94,6 +100,7 @@ ul {
   color: white;
   font-size: 22px;
   border: 1px;
+
 }
 .anchorandshoe{
 margin-left: 10%;
@@ -113,7 +120,7 @@ break-after: auto;
   border: 1px;
   text-decoration: none;
 }
-.buynow {
+.buynowbutton{
   color: red;
   text-decoration: none;
   border: 1px;
@@ -122,24 +129,55 @@ break-after: auto;
   cursor: pointer;
   display: inline-block;
   text-align: right;
+  border: 2px, solid transparent;
+}
+.buynowbutton a.active,
+.buynowbutton a:hover{
+  border-bottom color: #fbc2c3;
+}
+
+}
+.Product-Details1{
+  color: red;
+  margin-right: 20px;
+  display: block;
+  padding: 20px;
+  letter-spacing: 1px;
+  border: 1px;
+  float: right;
+  vertical-align: -1px;
+  margin-right: 2px;
+  width: 20%;
+  font-size: 30px;
+  word-spacing: 10px;
+}
+.product-section{
+  height: 30%;
 }
 .Product-Details{
   color: red;
   text-decoration: none;
+  float: left;
 }
 .SizeandFit{
   color: red;
   text-decoration: none;
+  float: left;
 }
 .Reviews{
-  text-align: right;
+
   text-decoration: none;
   color: red;
+  float: right;
 }
-h2 {
+.content{
+  text-align: left;
+}
+.excitingtopic{
   font-size: 15px;
   font-weight: bold;
   border: 1px;
+  display: block;
 }
 
 .contenthere {
@@ -147,13 +185,13 @@ h2 {
   border: 1px;
 }
 
-h3 {
+.findshoe{
   font-size: 15px;
   font-weight: bold;
   border: 1px;
 }
 
-h4 {
+.customers{
   font-size: 15px;
   font-weight: bold;
   border: 1px;
@@ -188,15 +226,20 @@ h5 {
   color: white;
   border: 1px;
 }
+.footer{
+  padding: 5px;
+}
 .legal{
-  color: gray;
-  border: 1px;
-  text-align: right;
-  display: inline-block;
+  font-size: 12px;
+  float: right;
+  margin-top: 6px;
+}
+.navigate{
+display: block;
 }
 .copyright{
   color: gray;
   border: 1px;
   text-align: right;
-  display: inline-block;
+  display: block;
 }
