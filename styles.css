@@ -1,10 +1,8 @@
 *{
   font-family: arial;
-
 }
 .header{
   margin: 10px 5px 10px 5px;
-
 }
 .logo {
   width: 60px;
@@ -32,16 +30,16 @@
    border: 1px;
    padding: 30px;
  }
-ul {
+ul{
   list-style-type: none;
   margin: 0;
   padding: 0;
   text-align: left;
   }
-  li {
+  li{
     display: inline;
   }
-  .help1 {
+  .help1{
     color: red;
     text-decoration: none;
     border: 1px;
@@ -54,32 +52,30 @@ ul {
     color: red;
     text-decoration: none;
   }
-  .myaccount {
+  .myaccount{
     color: red;
     text-decoration: none;
     border: 1px;
 }
-  .shoppingcart {
+  .shoppingcart{
     color: red;
     text-decoration: none;
     text-align: right;
     border: 1px;
   }
-
-  .backtoallshoes {
+  .backtoallshoes{
     color: white;
     text-decoration: none;
     border: 1px;
     margin: 40px;
     padding: 10px;
   }
-.redbackground {
+.redbackground{
   background: linear-gradient(to right, #ff0066 0%, #cc0000 100%);
   border: 1px;
   height: 600px;
 }
-
-.blackshoe {
+.blackshoe{
   width: 100%;
   height: 100%;
   border: 1px;
@@ -95,27 +91,24 @@ ul {
   display: inline-block;
   width: 40%;
 }
-
 .QuickSneakers{
   color: white;
   font-size: 22px;
   border: 1px;
-
 }
 .anchorandshoe{
 margin-left: 10%;
   display: inline-block;
   width: 40%;
 }
-.Lorem {
+.Lorem{
   color: white;
   font-size: 9px;
 margin-top: 30px;
 margin-bottom: 30px;
 break-after: auto;
 }
-
-.price {
+.price{
   color: white;
   border: 1px;
   text-decoration: none;
@@ -134,8 +127,6 @@ break-after: auto;
 .buynowbutton a.active,
 .buynowbutton a:hover{
   border-bottom color: #fbc2c3;
-}
-
 }
 .Product-Details1{
   color: red;
@@ -165,7 +156,6 @@ break-after: auto;
   float: left;
 }
 .Reviews{
-
   text-decoration: none;
   color: red;
   float: right;
@@ -179,30 +169,25 @@ break-after: auto;
   border: 1px;
   display: block;
 }
-
 .contenthere {
   font-size: 8px;
   border: 1px;
 }
-
 .findshoe{
   font-size: 15px;
   font-weight: bold;
   border: 1px;
 }
-
 .customers{
   font-size: 15px;
   font-weight: bold;
   border: 1px;
 }
-
-.read {
+.read{
   font-size: 8px;
   border: 1px;
 }
-
-h5 {
+h5{
   background-color: #fbdfe3;
   font-size: 15px;
   text-align: center;
