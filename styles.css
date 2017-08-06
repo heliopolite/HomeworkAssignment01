@@ -1,9 +1,11 @@
-*{
+* {
   font-family: arial;
 }
-.header{
+
+.header {
   margin: 10px 5px 10px 5px;
 }
+
 .logo {
   width: 60px;
   height: 40px;
@@ -12,77 +14,90 @@
   vertical-align: top;
   display: inline-block;
 }
-.menulist{
+
+.menulist {
   color: #ff512f;
   text-decoration: none;
   border: 1px;
   cursor: pointer;
   font-weight: bold;
-  margin: 0,0,0,40px;
+  margin: 0 12px 0 0;
   padding: 0;
   line-spacing: 5px;
   display: inline block;
   text-align: center;
   list-style-type: none;
- }
- .navigator{
-   display: inline-block;
-   border: 1px;
-   padding: 30px;
- }
-ul{
+}
+
+.navigator {
+  display: inline-block;
+  border: 1px;
+  padding: 30px;
+}
+
+ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
   text-align: left;
-  }
-  li{
-    display: inline;
-  }
-  .help1{
-    color: red;
-    text-decoration: none;
-    border: 1px;
-    float: right;
-    vertical-align: -1px;
-    margin-right: 2px;
-    width: 20%;
-  }
-  .help{
-    color: red;
-    text-decoration: none;
-  }
-  .myaccount{
-    color: red;
-    text-decoration: none;
-    border: 1px;
 }
-  .shoppingcart{
-    color: red;
-    text-decoration: none;
-    text-align: right;
-    border: 1px;
-  }
-  .backtoallshoes{
-    color: white;
-    text-decoration: none;
-    border: 1px;
-    margin: 40px;
-    padding: 10px;
-  }
-.redbackground{
+
+li {
+  display: inline;
+}
+
+.help1 {
+  color: red;
+  text-decoration: none;
+  border: 1px;
+  float: right;
+  vertical-align: -1px;
+  margin-right: 2px;
+  width: 20%;
+  padding: 20px;
+}
+
+.help {
+  color: red;
+  text-decoration: none;
+}
+
+.myaccount {
+  color: red;
+  text-decoration: none;
+  border: 1px;
+}
+
+.shoppingcart {
+  color: red;
+  text-decoration: none;
+  text-align: right;
+  border: 1px;
+}
+
+.backtoallshoes {
+  color: white;
+  text-decoration: none;
+  border: 1px;
+  margin: 40px;
+  padding: 10px;
+}
+
+.redbackground {
   background: linear-gradient(to right, #ff0066 0%, #cc0000 100%);
   border: 1px;
   height: 600px;
 }
-.blackshoe{
+
+.blackshoe {
   width: 100%;
   height: 100%;
   border: 1px;
   margin: 10px;
-  display:inline-block;
+  display: inline-block;
 }
-.quicksneakersblock{
+
+.quicksneakersblock {
   margin: 0, 50, 0, 30;
   padding: 10, 10, 10, 10;
   text-align: right;
@@ -91,29 +106,34 @@ ul{
   display: inline-block;
   width: 40%;
 }
-.QuickSneakers{
+
+.QuickSneakers {
   color: white;
   font-size: 22px;
   border: 1px;
 }
-.anchorandshoe{
-margin-left: 10%;
+
+.anchorandshoe {
+  margin-left: 10%;
   display: inline-block;
   width: 40%;
 }
-.Lorem{
+
+.Lorem {
   color: white;
   font-size: 9px;
-margin-top: 30px;
-margin-bottom: 30px;
-break-after: auto;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  break-after: auto;
 }
-.price{
+
+.price {
   color: white;
   border: 1px;
   text-decoration: none;
 }
-.buynowbutton{
+
+.buynowbutton {
   color: red;
   text-decoration: none;
   border: 1px;
@@ -122,109 +142,134 @@ break-after: auto;
   cursor: pointer;
   display: inline-block;
   text-align: right;
-  border: 2px, solid transparent;
 }
-.buynowbutton a.active,
-.buynowbutton a:hover{
-  border-bottom color: #fbc2c3;
+
+a.buynowbutton:active, a.buynowbutton:hover {
+  border-bottom-color: #fbc2c3;
 }
-.Product-Details1{
+
+.Product-Links {
   color: red;
   margin-right: 20px;
   display: block;
-  padding: 20px;
+  padding: 10px;
   letter-spacing: 1px;
-  border: 1px;
-  float: right;
-  vertical-align: -1px;
-  margin-right: 2px;
+  float: left;
   width: 20%;
-  font-size: 30px;
-  word-spacing: 10px;
+  font-size: 15px;
 }
-.product-section{
-  height: 30%;
-}
-.Product-Details{
-  color: red;
-  text-decoration: none;
-  float: left;
-}
-.SizeandFit{
-  color: red;
-  text-decoration: none;
-  float: left;
-}
-.Reviews{
-  text-decoration: none;
-  color: red;
+
+.navright {
   float: right;
+  padding: 0 200px 0 0;
 }
-.content{
+
+.product-section {
+  height: 40%;
+}
+
+.Product-Details {
+  color: red;
+  text-decoration: none;
+  float: left;
+  margin-right: 5px;
+}
+
+.SizeandFit {
+  color: red;
+  text-decoration: none;
+  float: left;
+}
+
+.Reviews {
+  text-decoration: none;
+  color: red;
+}
+
+.content {
   text-align: left;
+  clear: both;
 }
-.excitingtopic{
+
+.excitingtopic {
   font-size: 15px;
   font-weight: bold;
   border: 1px;
   display: block;
 }
+
 .contenthere {
   font-size: 8px;
   border: 1px;
 }
-.findshoe{
+
+.findshoe {
   font-size: 15px;
   font-weight: bold;
   border: 1px;
 }
-.customers{
+
+.customers {
   font-size: 15px;
   font-weight: bold;
   border: 1px;
 }
-.read{
+
+.read {
   font-size: 8px;
   border: 1px;
 }
-h5{
+
+h5 {
   background-color: #fbdfe3;
   font-size: 15px;
   text-align: center;
   padding: 20px;
   border: 1px;
 }
-.smallredbackground{
+
+.smallredbackground {
   background: linear-gradient(to right, #ff0066 0%, #cc0000 100%);
   border: 1px;
   height: 300px;
 }
-.recomshoe{
+
+.recomshoe {
   display: inline-block;
   width: 28%;
   margin-left: 5%;
 }
-.recomimgshoe{
+
+.recomimgshoe {
   width: 25%;
 }
+
 .FunnySneakers {
   color: white;
   border: 1px;
 }
-.footer{
+
+.footer {
   padding: 5px;
 }
-.legal{
+
+.legal {
+  border: 1px;
+  vertical-align: -1px;
+  margin-right: 2px;
   font-size: 12px;
-  float: right;
   margin-top: 6px;
+  float: right;
+  padding: 20px;
 }
-.navigate{
-display: block;
+
+.navigate {
+  display: inline-block;
 }
-.copyright{
+
+.copyright {
   color: gray;
   border: 1px;
   text-align: right;
-  display: block;
+  display: inline-block;
 }
